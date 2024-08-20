@@ -1,4 +1,4 @@
-# jokempo-python
+# jokempo-python (Bernardo Conte e Joan Conte - 202)
 Jogo Jokempo (Pedra, papel e tesoura) em python
 
 - REGRAS: <br>
