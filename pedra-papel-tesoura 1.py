@@ -49,9 +49,9 @@ def jogar_rodada():
     # Simula o momento antes das escolhas, característico do jogo
     print('JO')
     time.sleep(1)  # Pausa de 1 segundo
-    print("KEN")
+    print("KEM")
     time.sleep(1)  # Pausa de 1 segundo
-    print("PÔ!\n")
+    print("PO!\n")
     time.sleep(0.5)  # Pausa de meio segundo
 
     # Verifica se a escolha do usuário é válida
