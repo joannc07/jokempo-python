@@ -20,6 +20,11 @@ Funcionamento do código:<br>
 
 <br>
 
+![image](https://github.com/user-attachments/assets/5f95875c-886c-497f-b2ab-d1cc94b4e6ce)
+
+<br>
+
+
 
 
 
