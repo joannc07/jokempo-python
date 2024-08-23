@@ -1,4 +1,4 @@
-# Jokempo-python (Bernardo Conte e Joan Conte - 202) ✊✋✌️
+# jokempo-python (Bernardo Conte e Joan Conte - 202) ✊✋✌️
 Jogo Jokempo (Pedra, papel e tesoura) em python
 >O pedra, papel e tesoura, chamado também de Jankenpo é um jogo recreativo de origem chinesa e sua primeira citação foi na obra Wazuzu em 1600 a.C. Mesmo surgindo na China, o jogo ganhou maior popularidade em uma comunidade chinesa em Nagasaki, no Japão durante o século XVII. Chegou ao ocidente apenas no século XX, com a abertura do Japão para os outros continentes.
 
