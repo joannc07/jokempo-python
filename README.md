@@ -20,7 +20,8 @@ Funcionamento do código:<br>
 
 <br>
 
-Imagem do jogo:
+Imagem do jogo:<br>
+<img src= "imagem(1)" height = "20" width= "20">
 
 
 
