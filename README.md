@@ -18,4 +18,13 @@ sleep.time > Vem da biblioteca "time". <br>
 Funcionamento do código:<br>
 >O código foi feito com funções básicas de python, como dev, while, if, entre outros. O jogo funciona em um formato melhor de 3, então será executado até que o jogador ou a máquina ganhem duas rodadas.
 
+<br>
+
+Imagem do jogo:
+
+
+
+
+
+
  
